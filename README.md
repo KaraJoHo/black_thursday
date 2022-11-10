@@ -35,13 +35,13 @@ Tell us about 1) a unit test and 2) an integration test that you are particularl
 
 Is there anything else you would like instructors to know?
 
-Please include a minimum of 1 question from each group member (max: 3 questions per group member). Include these questions as a section in your project README. Your evaluating instructor will answer these in your feedback video.
+# Questions
 
-Braxton: Where did we go wrong with our create/update methods, how come we cant pass the spec harness?
+- Braxton: Where did we go wrong with our create/update methods, how come we cant pass the spec harness?
 After speaking with other classmates our spec harness run time is much longer than others. How could we have shortened it up?
-Kyle: What are some strategies to sticking to tdd especially when making helper methods? It can feel tedious at times
-Nigel: How can we best implement repo update method into a module when different repos want to update an instance with different attributes? And if they share the same method then some instances will not correctly initialize.
-Kara: Is there a better way to connect all the find by id methods in to a module, even though they are specific to the class? It seems like it could clean up a lot
+- Kyle: What are some strategies to sticking to tdd especially when making helper methods? It can feel tedious at times
+- Nigel: How can we best implement repo update method into a module when different repos want to update an instance with different attributes? And if they share the same method then some instances will not correctly initialize.
+- Kara: Is there a better way to connect all the find by id methods in to a module, even though they are specific to the class? It seems like it could clean up a lot
 
-BLOG
+# BLOG
 https://drive.google.com/file/d/14NhA3IJPbdgz0ukNNMhkFj7TZPW9_baj/view?usp=sharing
